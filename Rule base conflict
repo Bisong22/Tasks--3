@@ -1,0 +1,12 @@
+Expert systems resolve rule base conflicts consist of various techniques, which included:
+
+1. *Priority assignment*: Assigning priorities to rules, with higher-priority rules overriding lower-priority ones.
+2. *Specificity*: Giving precedence to more specific rules over general ones.
+3. *Recency*: Favoring more recent rules over older ones.
+4. *Consistency checking*: Identifying and resolving inconsistencies among rules.
+5. *Resolution strategies*: Using strategies like "first wins", "last wins", or "most specific wins" to resolve conflicts.
+6. *Meta-rules*: Defining rules to resolve conflicts between rules.
+7. *Non-monotonic reasoning*: Allowing rules to be withdrawn or modified based on new information.
+8. *Truth maintenance system*: Tracking and managing the validity of rules and conclusions.
+9. *Constraint-based reasoning*: Using constraints to limit the applicability of rules.
+10. *Machine learning*: Using machine learning techniques to learn from conflicts and improve rule base consistency..
